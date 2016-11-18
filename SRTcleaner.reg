@@ -3,5 +3,5 @@
 [HKEY_CLASSES_ROOT\srt_auto_file\shell\SRT Cleaner]
 
 [HKEY_CLASSES_ROOT\srt_auto_file\shell\SRT Cleaner\command]
-@="powershell & \"C:\\path\\to\\this\\powershell-script\\cleaner.ps1\" %1"
+@="powershell & \"C:\\path\\to\\this\\powershell-script\\SRTcleaner.ps1\" %1"
 
