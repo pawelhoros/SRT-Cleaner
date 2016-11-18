@@ -11,5 +11,5 @@ Full list of unwanted tags:
 <ul>
 <li>&lt;i&gt; and &lt;/i&gt;</li>
 <li>&lt;b&gt; and &lt;/b&gt;</li>
-<li>{*anything*}</li>
+<li>{*anything*} - anything in brackets {} like {y:b} and similar</li>
 </ul>
