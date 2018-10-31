@@ -30,3 +30,4 @@ then as a name type your desired action name (ie: SRT Cleaner).
 ## Usage
 
 Right click your .srt file and select from context menu Send To, then SRT Cleaner. The file will be cleaned up and replaced in it's original location.
+You can select multiple files, all of them will be processed.
